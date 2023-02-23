@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sdoffen-t9
+- 👋 Hi, I’m @sdoffen
 - 👀 I’m interested in .NET, REST, AWS and React
 - 🌱 I’m currently learning AWS Step Functions and Mobile App Development
 - 💞️ I’m looking to collaborate on [Grapevine](https://github.com/scottoffen/grapevine)
